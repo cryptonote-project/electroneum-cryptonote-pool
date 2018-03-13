@@ -1,3 +1,3 @@
 git add -A
-git commit -m "Initial Kryptonium commits"
+git commit -m "Kryptonium commits"
 git push base master
