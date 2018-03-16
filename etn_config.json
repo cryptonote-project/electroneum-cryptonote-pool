@@ -21,17 +21,17 @@
         "minerTimeout": 900,
         "ports": [
             {
-                "port": 3333,
+                "port": 3003,
                 "difficulty": 100,
                 "desc": "Low end hardware"
             },
             {
-                "port": 5555,
+                "port": 5005,
                 "difficulty": 2000,
                 "desc": "Mid range hardware"
             },
             {
-                "port": 7777,
+                "port": 7007,
                 "difficulty": 10000,
                 "desc": "High end hardware"
             }
@@ -84,7 +84,7 @@
         "enabled": true,
         "hashrateWindow": 600,
         "updateInterval": 3,
-        "port": 8117,
+        "port": 8007,
         "blocks": 30,
         "payments": 30,
         "password": "pool_"
